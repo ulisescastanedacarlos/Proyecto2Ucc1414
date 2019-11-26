@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proyecto2Ucc1414</string>
+    <string name="colores">COLORS</string>
+    <string name="txt1">INGRESE UN COLOR</string>
+    <string name="btnmenu">MENU</string>
+    <string name="TEXTO">Aviso: NO ingresar colores repetidos, Si no recuerda que colores se han registrado favor de revisar los colores.</string>
+    <string name="VERCOLOR">COLORES AGREGADOS</string>
+    <string name="btncrear">Insertar Color</string>
+    <string name="btnver">VER COLORES</string>
+    <string name="btnregresar">MENU PRINCIPAL</string>
+    <string name="agregar">GUARDAR</string>
+    <string name="add">add</string>
+    <string name="adda">agregar</string>
+</resources>
